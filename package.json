@@ -1,0 +1,25 @@
+{
+	"name": "primera_entrega_proyecto_final",
+	"version": "1.0.0",
+	"description": "Primera entrega del proyecto final",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon index.js",
+		"start": "index.js"
+	},
+	"keywords": [
+		"node",
+		"express"
+	],
+	"author": "",
+	"license": "",
+	"dependencies": {
+		"express": "^4.18.2",
+		"express-handlebars": "^6.0.6",
+		"nodemon": "^2.0.20"
+	},
+	"repository": {
+		"type": "",
+		"url": ""
+	}
+}
